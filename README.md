@@ -1,2 +1,3 @@
 # python-study
-这是一个python小白的学习笔记，哈哈。
+## GitHub到底该怎么用？一脸懵逼
+### markdown格式？
