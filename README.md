@@ -4,3 +4,5 @@
 第二节、[条件与循环语句](https://nbviewer.jupyter.org/github/jachin-zhao/python-study/blob/master/2%E3%80%81%E6%9D%A1%E4%BB%B6%E4%B8%8E%E5%BE%AA%E7%8E%AF%E8%AF%AD%E5%8F%A5.ipynb)
 
 第三节、[异常处理](https://nbviewer.jupyter.org/github/jachin-zhao/python-study/blob/master/3%E3%80%81%E5%BC%82%E5%B8%B8%E5%A4%84%E7%90%86.ipynb)
+
+第四节、[列表、元组、字符串](https://nbviewer.jupyter.org/github/jachin-zhao/python-study/blob/master/4%E3%80%81%E5%88%97%E8%A1%A8%E3%80%81%E5%85%83%E7%BB%84%E3%80%81%E5%AD%97%E7%AC%A6%E4%B8%B2.ipynb)
