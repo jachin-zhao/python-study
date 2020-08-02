@@ -8,3 +8,5 @@
 第四节、[列表、元组、字符串](https://nbviewer.jupyter.org/github/jachin-zhao/python-study/blob/master/4%E3%80%81%E5%88%97%E8%A1%A8%E3%80%81%E5%85%83%E7%BB%84%E3%80%81%E5%AD%97%E7%AC%A6%E4%B8%B2.ipynb)
 
 第五节、[字典、集合、序列](https://nbviewer.jupyter.org/github/jachin-zhao/python-study/blob/master/5%E3%80%81%E5%AD%97%E5%85%B8%E3%80%81%E9%9B%86%E5%90%88%E3%80%81%E5%BA%8F%E5%88%97.ipynb)
+
+第六节、[函数与Lambda表达式](https://nbviewer.jupyter.org/github/jachin-zhao/python-study/blob/master/6%E3%80%81%E5%87%BD%E6%95%B0%E4%B8%8ELambda%E8%A1%A8%E8%BE%BE%E5%BC%8F.ipynb)
